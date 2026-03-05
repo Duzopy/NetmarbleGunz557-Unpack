@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://game3.netmarble.net/gunz/
+[DOC#83]
+BASEURL=http://game3.netmarble.net/gunz/channel/GameChannel.asp?Game=gunz
+ORIGURL=/gunz/channel/GameChannel.asp?Game=gunz
+[InternetShortcut]
+URL=http://game3.netmarble.net/gunz/
+Modified=301243E51DB3C70102
+IconFile=C:\WINDOWS\system32\url.dll
+IconIndex=0
+[InternetShortcut.A]
+[InternetShortcut.W]
+IconFile=C:+AFw-Documents and Settings+AFw-espoa+AFy8FNDV- +1lS6dABcrHTJiK0AuCgAXKx0yYg--+1VytbQBc-GunzKR 2007-05-31+AF8-5405+AFw-icon1.ico
